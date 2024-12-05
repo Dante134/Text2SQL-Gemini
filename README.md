@@ -14,7 +14,7 @@ The app allows users to type questions in plain English, such as "What is the hi
 sql.py: Contains code to set up the SQLite database, create tables, and insert records.
 app.py: The main application file that uses Streamlit to interact with users, generate SQL queries with Google Gemini Pro, and query the SQLite database.
 
-1.) **sql.py** – SQLite Database Setup and Record Insertion This file contains the setup for the database and the insertion of sample data. 
+1.) **sql.py** – SQLite Database Setup and Record Insertion. This file contains the setup for the database and the insertion of sample data. 
 ![image](https://github.com/user-attachments/assets/6c434f4e-02fe-4f3c-a750-f6be43fd2ace)
 
 2.) **app.py** – Streamlit App for User Interaction and Querying This file sets up the Streamlit app and integrates Google Gemini Pro to handle user input and generate SQL queries. 
