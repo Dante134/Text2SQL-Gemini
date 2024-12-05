@@ -15,13 +15,13 @@ sql.py: Contains code to set up the SQLite database, create tables, and insert r
 app.py: The main application file that uses Streamlit to interact with users, generate SQL queries with Google Gemini Pro, and query the SQLite database.
 
 1.) **sql.py** – SQLite Database Setup and Record Insertion. This file contains the setup for the database and the insertion of sample data. 
-![image](https://github.com/user-attachments/assets/6c434f4e-02fe-4f3c-a750-f6be43fd2ace)
+[]{![image](https://github.com/user-attachments/assets/6c434f4e-02fe-4f3c-a750-f6be43fd2ace)}
 
 2.) **app.py** – Streamlit App for User Interaction and Querying This file sets up the Streamlit app and integrates Google Gemini Pro to handle user input and generate SQL queries. 
-![image](https://github.com/user-attachments/assets/330b5e68-06db-435b-bf6f-41c0c0299a64)
+[]{![image](https://github.com/user-attachments/assets/330b5e68-06db-435b-bf6f-41c0c0299a64)}
 
 3.) **.env** – Storing API Keys Securely In the .env file, store your Google API key: 
-![image](https://github.com/user-attachments/assets/6fb2adc7-f16b-4a09-85ab-27dce00c6b13)
+[]{![image](https://github.com/user-attachments/assets/6fb2adc7-f16b-4a09-85ab-27dce00c6b13)}
 
 **How to Run the Project**
 
