@@ -101,12 +101,6 @@ It is ideal for developers and data enthusiasts looking to integrate AI for SQL 
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Acknowledgments
 
 - **Google Generative AI**: For powering natural language to SQL conversion.
