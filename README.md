@@ -1,4 +1,4 @@
-# Text2SQL Project Using Streamlit, Google Gemini, and SQLite
+# Text2SQL Using Streamlit, Google Gemini, and SQLite
 
 ## Project Overview
 
