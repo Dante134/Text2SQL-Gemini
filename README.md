@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Project Pipeline](https://via.placeholder.com/800x400.png?text=Project+Pipeline)
+![Project Pipeline](https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/adkbbx/GeminiTexttoSql.png)
 
 This project demonstrates an interactive web application for converting natural language queries into SQL commands using Google Gemini's generative AI capabilities. The application also executes the generated SQL commands on an SQLite database and displays the results. 
 
